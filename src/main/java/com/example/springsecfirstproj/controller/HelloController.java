@@ -1,4 +1,4 @@
-package com.example.springsecfirstproj;
+package com.example.springsecfirstproj.controller;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
